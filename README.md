@@ -12,23 +12,23 @@
   
 ## CSC Workshop Series
 
-Date          Workshop
-------------- -------------------------------------------------------------
-January 21    M2 Introduction
-January 28    Introduction to LAPACK and BLAS
-February 4    Text Mining with Python on M2 (Lead by Dr. Eric Godat)]
-February 11   Using the New HPC Portal
-February 18   Using GitHub
-February 25   Writing Portable Accelerator Code with KOKKOS, RAJA, and OCCA
-March 3       M2 Introduction
-March 10      Introduction to Parallelization Using MPI
-March 17      No Workshop Spring Break
-March 24      Writing High Performance Python Code
-March 31      Creating Portable Environments with Docker and Singularity
-April 7       M2 Introduction
-April 14      Introduction to Parallelization Using OpenMP and OpenACC
-April 21      Profiling Applications on M2
-April 28      Improving Code Vectorization
+|Date         |Workshop                                                     |
+|-------------|-------------------------------------------------------------|
+|January 21   |M2 Introduction                                              |
+|January 28   |Introduction to LAPACK and BLAS                              |
+|February 4   |Text Mining with Python on M2 (Lead by Dr. Eric Godat)       |
+|February 11  |Using the New HPC Portal                                     |
+|February 18  |Using GitHub                                                 |
+|February 25  |Writing Portable Accelerator Code with KOKKOS, RAJA, and OCCA|
+|March 3      |M2 Introduction                                              |
+|March 10     |Introduction to Parallelization Using MPI                    |
+|March 17     |No Workshop Spring Break                                     |
+|March 24     |Writing High Performance Python Code                         |
+|March 31     |Creating Portable Environments with Docker and Singularity   |
+|April 7      |M2 Introduction                                              |
+|April 14     |Introduction to Parallelization Using OpenMP and OpenACC     |
+|April 21     |Profiling Applications on M2                                 |
+|April 28     |Improving Code Vectorization                                 |
                                                                                               
 ## Using This Notebook on ManeFrame II (M2)
 
