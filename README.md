@@ -45,7 +45,7 @@
     presented and running on the M2 resource requested.
 7.  From "Launcher" tab select "Terminal".
 8.  Type ``git clone
-    https://github.com/SouthernMethodistUniversity/Text_Mining_Python.git`` and
+    https://github.com/rkalescky/fast_python.git`` and
     press "Enter"
 9.  In the file browser on the left double-click "Text_Mining_Python" and then
     double click "text_mining_python.ipynb"
